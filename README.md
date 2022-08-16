@@ -94,7 +94,7 @@ Se possível:
 
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la") no projeto DIO 
+Disponibilizado com  por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la") no projeto DIO 
 Conhecendo Spring Data JPA na prática com Java
 
 
